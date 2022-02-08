@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Lena/Desktop/progects/AndrStudio/AppRepit/app/src/main/res/layout/activity_main.xml" value="0.275" />
+        <entry key="..\:/Users/Lena/Desktop/progects/AndrStudio/AppRepit/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Lena/Desktop/progects/AndrStudio/AppRepit/app/src/main/res/layout/fragment_first.xml" value="0.275" />
+        <entry key="..\:/Users/Lena/Desktop/progects/AndrStudio/AppRepit/app/src/main/res/layout/fragment_second.xml" value="0.275" />
       </map>
     </option>
   </component>
